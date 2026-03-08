@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@theme {
+  --animate-float: float 6s ease-in-out infinite;
+  
+  @keyframes float {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-20px); }
+  }
+}
+
+body {
+  margin: 0;
+  display: flex;
+  min-width: 320px;
+  min-height: 100vh;
+  @apply bg-pink-50 font-sans text-slate-800;
+  overflow-x: hidden;
+}
+
+#root {
+  width: 100%;
+}
