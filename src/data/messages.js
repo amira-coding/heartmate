@@ -19,19 +19,19 @@ I’m always making dua for you. May Allah fill your heart with peace.`,
   },
 
   miss: {
-    title: "Open when you miss me 🤍",
-    content: `Distance doesn't change what is written by Allah.
+    title: "Open when you need comfort 🤍",
+    content: `Whenever you feel alone or need reassurance, remember Allah is your protector.
 
-Make this beautiful dua:
+Recite this beautiful dua:
 
-رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ
+رَبِّ اشْرَحْ لِي صَدْرِي وَيَسِّرْ لِي أَمْرِي
 
-Rabbana hablana min azwajina wa dhurriyyatina qurrata a'yun.
+Rabbishrah li sadri wa yassir li amri.
 
 Meaning:
-"Our Lord, grant us from our spouses and offspring comfort to our eyes."
+"My Lord, expand for me my chest [grant me confidence] and ease my task for me."
 
-May Allah always keep our hearts connected with love and barakah.`,
+May Allah ease your heart and keep you strong. I am always making dua for your happiness and well-being.`,
     emoji: "🕊️",
     color: "from-pink-400 to-pink-200"
   },
